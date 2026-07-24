@@ -1,34 +1,32 @@
-# Anthony "Clay" Napier | AI Systems & Solutions Engineer
+# ⚡ Anthony Napier | AI Solutions Engineer & Systems Architect
 
-🚀 Full-Stack Builder specializing in rapid AI prototyping, automated business pipelines, and micro-SaaS utilities.
-
----
-
-### 🛠 Tech Stack & Environment
-- **AI & Automation:** LLM Orchestration, Multimodal Vision Pipelines, API Integrations
-- **Frontend & Prototyping:** Next.js, React, v0, Tailwind CSS, Cursor Pro
-- **Backend & Data:** Supabase, PostgreSQL, REST APIs, Node.js
+Rapid-prototyping engineer specializing in **agentic workflows**, **multimodal AI integrations**, and **full-stack web applications**. I build practical automation systems that solve real business operational friction—from computer vision listing tools to field sales engine platforms.
 
 ---
 
-### 🌟 Featured Applications & Systems
+## 🛠 Tech Stack & Capabilities
 
-#### 🦐 [The Pixel Lab App](https://github.com/napier-aidev/The_Pixel_Lab_App)
-> *Custom aquatic & shrimp breeding management system for tracking genetic lines, rack inventory, and environmental parameters.*
-- **Key Tech:** Next.js, Supabase, Relational Data Architecture, Custom UI Logic
-- Handles multi-tank tracking, breeding log histories, and operational management for complex physical livestock setups.
-
-#### 🛍️ [AI E-Commerce Listing Assistant](https://github.com/napier-aidev/v0-ebay-listing-assistant)
-> *Multimodal AI workflow that analyzes item imagery and structures metadata for e-commerce listing engines.*
-- **Key Tech:** Next.js, Vision APIs, Supabase, Automated Data Formatting
-- Extracts physical item properties from raw images directly into structured API payloads to automate inventory intake.
-
-#### 🏷️ [Vinyl Vision Pro](https://github.com/napier-aidev/VINYL-VISION-PRO)
-> *Specialized inventory management system bridging physical material handling with digital tracking.*
-- **Key Tech:** React, Supabase, QR/Barcoding API Architecture
-- End-to-end asset cataloging tool built for physical inventory optimization.
+- **AI & Automation:** Multimodal Vision LLMs, Agentic Workflows, AI Orchestration
+- **Frontend & Prototyping:** Next.js, React, Tailwind CSS, v0
+- **Backend & Data:** Supabase (PostgreSQL), REST APIs, Dynamic State Management
+- **Developer Environment:** Cursor Pro, Node.js, Git/GitHub
 
 ---
 
-### 📬 Connect & Demos
-- **Portfolio / Studio:** [napierlabs.dev](https://github.com/napier-aidev/Napierlabs.dev)
+## 📌 Hero Projects
+
+### 🛍️ [Multimodal AI E-Commerce Listing Assistant](https://github.com/napier-aidev/v0-ebay-listing-assistant)
+Automated inventory intake application utilizing multimodal vision models to extract product attributes and build structured listing drafts.
+
+### 🦐 [The Pixel Lab App](https://github.com/napier-aidev/The_Pixel_Lab_App)
+Custom aquatic breeding and rack management platform tracking water parameters, inventory, and genetic lines across multi-tank setups.
+
+### 🚪 [JT Garage Door Estimate & Visual Mockup Generator](https://github.com/napier-aidev/JT-Garage-Door-Sale-v2)
+Field sales automation tool generating instant pricing estimates and dynamic visual door previews based on spec selections.
+
+---
+
+## 📬 Connect With Me
+
+- **GitHub:** [@napier-aidev](https://github.com/napier-aidev)
+- **Focus:** AI Solutions Engineering | Rapid Prototyping | Forward Deployed Engineering
