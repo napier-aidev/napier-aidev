@@ -21,7 +21,7 @@ Automated inventory intake application utilizing multimodal vision models to ext
 ### 🦐 [The Pixel Lab App](https://github.com/napier-aidev/The_Pixel_Lab_App)
 Custom aquatic breeding and rack management platform tracking water parameters, inventory, and genetic lines across multi-tank setups.
 
-### 🚪 [JT Garage Door Estimate & Visual Mockup Generator](https://github.com/napier-aidev/JT-Garage-Door-Sale-v2)
+### 🚪 [Garage Door Estimate & Visual Mockup Generator](https://github.com/napier-aidev/JT-Garage-Door-Sale-v2)
 Field sales automation tool generating instant pricing estimates and dynamic visual door previews based on spec selections.
 
 ---
